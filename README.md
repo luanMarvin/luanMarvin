@@ -1,16 +1,18 @@
-### Hi there 👋
+# Luan Marvin - Dev Back-End Node.js
 
-<!--
-**luanMarvin/luanMarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá, me chamo Luan e sou um desenvolvedor back-end em busca de novos projetos para adquirir mais experiência na programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+- Linguagens: Javascript (NODE) e Typescript.
+- Frameworks: Express, Koa e Nest.
+- Banco de Dados / ORM's: MySQL, PostgreSQL, MongoDB / Prisma e Sequelize.
+- Ferramentas de teste: Jest e Chai.
+- Controle de versão: Git e Github.
+
+## Contato
+
+- [luanmarvin@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/luanmarvin/)
