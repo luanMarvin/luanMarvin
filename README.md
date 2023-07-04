@@ -1,18 +1,19 @@
 # Luan Marvin - Dev Back-End Node.js
 
-## Sobre Mim
+## About Me
 
-Olá, me chamo Luan e sou um desenvolvedor back-end em busca de novos projetos para adquirir mais experiência na programação.
+Hello! I'm Luan Marvin, a Web Developer (with focus on Back-end). This is my Github page and I've some cool projects using skills below.
 
-## Habilidades
+## Skills
 
-- Linguagens: Javascript (NODE) e Typescript.
-- Frameworks: Express, Koa e Nest.
-- Banco de Dados / ORM's: MySQL, PostgreSQL, MongoDB / Prisma e Sequelize.
-- Ferramentas de teste: Jest e Chai.
-- Controle de versão: Git e Github.
+- Languages: Javascript (NODE) and Typescript.
+- Frameworks: Express and Koa.
+- Database / ORM's: MySQL, PostgreSQL, SQLite and MongoDB / Prisma and Sequelize.
+- Testing: Jest and Chai.
+- Version Control: Git and Github.
+- Package Manager: Yarn and NPM
 
-## Contato
+## Hire Me 
 
 - [luanmarvin@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/luanmarvin/)
