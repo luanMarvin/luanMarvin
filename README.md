@@ -9,7 +9,7 @@ Hello! I'm Luan Marvin, a Web Developer (with focus on Back-end). This is my Git
 - Languages: Javascript (NODE) and Typescript.
 - Frameworks: Express, Koa and Nest.
 - Database / ORM's: MySQL, PostgreSQL, SQLite and MongoDB / Prisma and Sequelize.
-- Testing: Jest and Chai.
+- Testing: Jest.
 - Version Control: Git and Github.
 - Package Manager: Yarn and NPM
 - Front-End: Next.js (React)
